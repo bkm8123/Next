@@ -1,0 +1,8 @@
+@media only screen and (max-width: 1024px) {
+  .navbar-dropdown {
+    display: none !important;
+  }
+  .show_dropdown {
+    display: block !important;
+  }
+}
